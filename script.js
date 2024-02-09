@@ -46,7 +46,7 @@ document.getElementById("info").innerHTML =
         "<p>Nome: " + array_personagens[0] + "</p>" +
         "<p>Profissao: " + array_personagens[1] + "</p>" +
         "<p>Idade: " + array_personagens[2] + "</p>" +
-        "<p><img src='imagens/capitão_américa-removebg-preview.png' alt=" + array_personagens[3] + "</p>" 
+        "<p><img src='imagens/capitao_america-removebg-preview.png' alt=" + array_personagens[3] + "</p>" 
 }
 
 function Hulk(){
